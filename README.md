@@ -18,6 +18,9 @@ You'll find:
 No prior coding experience needed!
 By the end of this course, you'll be comfortable using R for basic data analysis, statistics, and biological data handling.
 
+🔁 Updates:
+This repository will be updated regularly with new content after each session, including practice tasks/assignment and any improvements based on feedback.
+
 Follow for more 
 🔗 [LinkedIn](linkedin.com/company/ai-and-biotechnology-bioinformatics) |
 📺 [YouTube](https://www.youtube.com/channel/UCj3gvFgTJNZpwKKn5IwpYCg) |
