@@ -12,9 +12,7 @@ Topic covered in this session:
   
   Created R project
   
-Follow step-by-step guide [here](https://youtu.be/hRwhbnGCFKM?si=dOM0TFTfknziTmli)
-
-or Read [notes](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session1%20Getting%20Start%20with%20R.pdf) 
+Follow step-by-step guide [notes](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session1%20Getting%20Start%20with%20R.pdf) 
 
 
 
