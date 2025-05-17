@@ -3,20 +3,21 @@ A beginner-focused R programming course
 
 This repository contains all the course materials for learning R programming from scratch, specially designed for students in biology, life sciences, and health-related fields.
 
-You'll find:
+# Session 1: Getting start with R
 
-✅ Lecture notes and slides
+Topic covered in this session:
+  R, RStudio & RTools downlaoding & installation
+  
+  Set up working directory
+  
+  Created R project
+  
+Follow step-by-step guide [here](https://youtu.be/hRwhbnGCFKM?si=dOM0TFTfknziTmli)
 
-✅ R scripts and code examples
+or Read [notes](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session1%20Getting%20Start%20with%20R.pdf) 
 
-✅ Practice exercises
 
-✅ Session recordings
 
-✅ Additional tips and references
-
-No prior coding experience needed!
-By the end of this course, you'll be comfortable using R for basic data analysis, statistics, and biological data handling.
 
 🔁 Updates:
 This repository will be updated regularly with new content after each session, including practice tasks/assignment and any improvements based on feedback.
