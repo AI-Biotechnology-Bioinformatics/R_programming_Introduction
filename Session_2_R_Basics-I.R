@@ -110,7 +110,7 @@ bmi <- 17
 
 if(bmi < 18.5) {
   print("underweight")
-} else if(bmi >- 18.5 & bmi <= 24.9) {
+} else if(bmi >= 18.5 & bmi <= 24.9) {
   print("normal weight")
 } else {
   print("overweight")
