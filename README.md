@@ -20,7 +20,8 @@ Importance of syntax in R programming.
 How to use variables, comments and keywords?
 Writing if, else statement.
 Follow step-by-step guide [here](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session1%20Getting%20Start%20with%20R.pdf)
-And for hand-on practice, Get the R script from this [link](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session_2_R_Basics-I.R)
+
+And for hand-on practice, Get the R script from this [link](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session_2_R_Basics_Part_I.R)
 
 🔁 Updates:
 This repository will be updated regularly with new content after each session, including practice tasks/assignment and any improvements based on feedback.
