@@ -3,7 +3,7 @@ A beginner-focused R programming course
 
 This repository contains all the course materials for learning R programming from scratch, specially designed for students in biology, life sciences, and health-related fields.
 
-## Session 1: Getting start with R
+### Session 1: Getting start with R
 
 Topic covered in this session:
 + R, RStudio & RTools downlaoding & installation
@@ -12,7 +12,7 @@ Topic covered in this session:
   
 Follow step-by-step guide [notes](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session1%20Getting%20Start%20with%20R.pdf) 
 
-## Session 2: Basics of R Programming language (Part I)
+### Session 2: Basics of R Programming language (Part I)
 In this session, we covered:
 + Importance of syntax in R programming.
 + How to use variables, comments and keywords?
@@ -21,7 +21,7 @@ Follow step-by-step guide [here](https://github.com/AI-Biotechnology-Bioinformat
 
 And for hand-on practice, Get the R script from this [link](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session_2_R_Basics_Part_I.R)
 
-## Session 3: Basics of R Programming language (Part II)
+### Session 3: Basics of R Programming language (Part II)
 In this session we covered:
 + Fundamentals of R functions
 + Learned how to create user-defined R functions 
@@ -30,6 +30,10 @@ Here you can find:
 
 [R Script: The complete R code used](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session_3_R_Basics_Part_II.R)
 
+### Session 4: Basics of R Programming language (Part III)
+In this session we learned about some opertors of R
+Find the session [summary here](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session%2)
+And for practice you can access [R codes here](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_4_R_Basics_Part_III.R)
 
 🔁 Updates:
 This repository will be updated regularly with new content after each session, including practice tasks/assignment and any improvements based on feedback.
