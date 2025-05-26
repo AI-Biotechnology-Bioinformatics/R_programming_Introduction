@@ -32,7 +32,8 @@ Here you can find:
 
 ### Session 4: Basics of R Programming language (Part III)
 In this session, we explored some of the operators in R.
-You can find the [session summary here](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session%2)
+You can find the [session summary here](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session%204-Basics%20of%20R%20(Part%20III).pdf)
+
 Access the [R practice codes here](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_4_R_Basics_Part_III.R)
 
 🔁 Updates:
