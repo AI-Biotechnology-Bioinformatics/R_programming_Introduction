@@ -31,9 +31,9 @@ Here you can find:
 [R Script: The complete R code used](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session_3_R_Basics_Part_II.R)
 
 ### Session 4: Basics of R Programming language (Part III)
-In this session we learned about some opertors of R
-Find the session [summary here](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session%2)
-And for practice you can access [R codes here](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_4_R_Basics_Part_III.R)
+In this session, we explored some of the operators in R.
+You can find the [session summary here](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session%2)
+Access the [R practice codes here](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_4_R_Basics_Part_III.R)
 
 🔁 Updates:
 This repository will be updated regularly with new content after each session, including practice tasks/assignment and any improvements based on feedback.
