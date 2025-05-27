@@ -36,6 +36,16 @@ You can find the [session summary here](https://github.com/AI-Biotechnology-Bioi
 
 Access the [R practice codes here](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_4_R_Basics_Part_III.R)
 
+### Session 5: Basics of R Programming language (Part IV)
+In this session we learned the core data types in R, and perform data type conversions in R.
+Here you can find:
+A detailed guide covering all the key points discussed during the session: [Session Summary](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session%205-Basics%20of%20R%20(Part%20IV).pdf)
+The complete R code used during the sesion with practice excercises: [R Code Snippts](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_5_R_Basics_Part_IV..R)
+
+### Session 6: Basics of R Programming language (Part V)
+This session is about about data structure in R, and data assesment.
+If you want to learn how different data structures works in R please follow this Scripr to learn: [R Script](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_6_R_Basics_Part_V..R)
+
 🔁 Updates:
 This repository will be updated regularly with new content after each session, including practice tasks/assignment and any improvements based on feedback.
 
