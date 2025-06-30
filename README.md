@@ -10,7 +10,7 @@ This repository contains all the course materials for learning R programming fro
 + Practical examples relevant to biological datasets
 
 ### Course Instructor
-**Instructor:** [Itrat Zehrh](www.linkedin.com/in/20zehraitrat) 
+**Instructor:** [Itrat Zehrh](https://www.linkedin.com/in/20zehraitrat/) 
 
 ### Session 1: Getting start with R
 
