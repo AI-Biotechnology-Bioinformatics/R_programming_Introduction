@@ -3,6 +3,12 @@ A beginner-focused R programming course
 
 This repository contains all the course materials for learning R programming from scratch, specially designed for students in biology, life sciences, and health-related fields.
 
+## What’s Included?
++ Step-by-step session summaries
++ Hands-on R scripts and datasets for practice
++ Base R, ggplot2, and dplyr cheatsheets for quick reference while codin
++ Practical examples relevant to biological datasets
+
 ### Session 1: Getting start with R
 
 Topic covered in this session:
@@ -10,46 +16,67 @@ Topic covered in this session:
 + Set up working directory
 + Created R project
   
-Follow step-by-step guide [notes](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session1%20Getting%20Start%20with%20R.pdf) 
+[Session Guide](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session1%20Getting%20Start%20with%20R.pdf) 
 
 ### Session 2: Basics of R Programming language (Part I)
 In this session, we covered:
 + Importance of syntax in R programming.
 + How to use variables, comments and keywords?
 + Writing if, else statement.
-Follow step-by-step guide [here](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session1%20Getting%20Start%20with%20R.pdf)
-
-And for hand-on practice, Get the R script from this [link](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session_2_R_Basics_Part_I.R)
+  [Session Guide](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session1%20Getting%20Start%20with%20R.pdf)
+  [R Script](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session_2_R_Basics_Part_I.R)
 
 ### Session 3: Basics of R Programming language (Part II)
 In this session we covered:
 + Fundamentals of R functions
 + Learned how to create user-defined R functions 
 Here you can find:
-[Session Summary: A detailed guide covering all the key points discussed during the session](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session%203-Basics%20of%20R%20(Part%20II).pdf)
+[Session Summary](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session%203-Basics%20of%20R%20(Part%20II).pdf)
 
-[R Script: The complete R code used](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session_3_R_Basics_Part_II.R)
+[R Script](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session_3_R_Basics_Part_II.R)
 
 ### Session 4: Basics of R Programming language (Part III)
 In this session, we explored some of the operators in R.
-You can find the [session summary here](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session%204-Basics%20of%20R%20(Part%20III).pdf)
-
-Access the [R practice codes here](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_4_R_Basics_Part_III.R)
+[session summary](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session%204-Basics%20of%20R%20(Part%20III).pdf)
+[R Script](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_4_R_Basics_Part_III.R)
 
 ### Session 5: Basics of R Programming language (Part IV)
 In this session we learned the core data types in R, and perform data type conversions in R.
 Here you can find:
-A detailed guide covering all the key points discussed during the session: [Session Summary](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session%205-Basics%20of%20R%20(Part%20IV).pdf)
-The complete R code used during the sesion with practice excercises: [R Code Snippts](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_5_R_Basics_Part_IV..R)
+[Session Summary](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session%205-Basics%20of%20R%20(Part%20IV).pdf)
+[R Script](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_5_R_Basics_Part_IV..R)
 
 ### Session 6: Basics of R Programming language (Part V)
 This session is about about data structure in R, and data assesment.
-If you want to learn how different data structures works in R please follow this Scripr to learn: [R Script](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_6_R_Basics_Part_V..R)
+[R Script](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_6_R_Basics_Part_V..R)
 
-🔁 Updates:
-This repository will be updated regularly with new content after each session, including practice tasks/assignment and any improvements based on feedback.
+### Session 7: Exploratory Data Analysis
+In this session, we covered the core concepts of exploratory data analysis using base R functions and the DataExplorer package. We also learned about control flow and loop functions in R. 
+[R Script](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_7_EDA.R)
 
-Follow for more 
+### Session 8: Data Manipulation 
+In this session, we explored data manipulation using the tidyverse package. Participants practiced cleaning, transforming, and preparing datasets efficiently for analysis.
+[R Script](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_8_Data_Manipulation.R)
+
+### Session 9: Statistical Analysis & Data Visualization
+In this session, we performed basic statistical analyses, including:
+Descriptive statistics
+Frequency tables
+Checking normality
+t-tests
+Correlation analysis
+Chi-square tests
+Logistic regression
+
+We also introduced data visualization using the ggplot2 package, practicing the creation of clear and informative plots. 
+[R Script](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session_9_Stats_Visualizations.R)
+
+```
+Practice with the provided scripts and materials to reinforce your learning.
+Use these resources to start analyzing your own biological datasets confidently.
+Follow us for free tutorials, resources, and omics workflows.
+```
+Connect with us
 🔗 [LinkedIn](linkedin.com/company/ai-and-biotechnology-bioinformatics) |
 📘 [Facebook](https://www.facebook.com/people/AI-and-BiotechnologyBioinformatics/61566611634266/)  
 
