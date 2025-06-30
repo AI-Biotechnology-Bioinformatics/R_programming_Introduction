@@ -9,6 +9,9 @@ This repository contains all the course materials for learning R programming fro
 + Base R, ggplot2, and dplyr cheatsheets for quick reference while codin
 + Practical examples relevant to biological datasets
 
+### Course Instructor
+**Instructor:** [Itrat Zehrh](www.linkedin.com/in/20zehraitrat) 
+
 ### Session 1: Getting start with R
 
 Topic covered in this session:
