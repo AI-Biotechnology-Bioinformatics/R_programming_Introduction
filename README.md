@@ -26,7 +26,7 @@ In this session, we covered:
 + Importance of syntax in R programming.
 + How to use variables, comments and keywords?
 + Writing if, else statement.
-  [Session Guide](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session1%20Getting%20Start%20with%20R.pdf)
+  [Session Guide](https://github.com/AI-Biotechnology-Bioinformatics/R_Crash_Course-2025/blob/main/Session%202-Basics%20of%20R%20(Part%20I).pdf)
   [R Script](https://github.com/AI-Biotechnology-Bioinformatics/R_programming_Introduction/blob/main/Session_2_R_Basics_Part_I.R)
 
 ### Session 3: Basics of R Programming language (Part II)
